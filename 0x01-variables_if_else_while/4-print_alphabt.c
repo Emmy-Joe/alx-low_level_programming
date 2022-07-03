@@ -9,7 +9,7 @@ int main(void)
 	char lowc;
 
 	for (lowc = 'a'; lowc <= 'z'; lowc++)
-	{ 
+	{
 		if (lowc != 'e' && lowc != 'q')
 			putchar(lowc);
 	}
