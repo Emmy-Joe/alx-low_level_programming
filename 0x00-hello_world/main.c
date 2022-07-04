@@ -3,9 +3,11 @@
 /**
  * main - Entry point
  *
- * Return: Always 0 (success)
+ * Return: ALway 0 (success)
  */
+
 int main(void)
 {
+	printf("Emmy Joe is Brillant\n");
 	return (0);
 }
