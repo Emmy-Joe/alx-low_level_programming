@@ -6,6 +6,7 @@
  *
  * @s: a string
  * @c: a character
+ * Return: 0 sucess
  */
 
 char *_strchr(char *s, char c)
