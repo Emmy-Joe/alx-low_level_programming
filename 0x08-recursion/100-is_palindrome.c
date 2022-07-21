@@ -23,6 +23,7 @@ int is_palindrome(char *s)
 /**
  * check_palindrome - Check if a string is palindrome
  * @s: string
+ * Return: success
  */
 
 
