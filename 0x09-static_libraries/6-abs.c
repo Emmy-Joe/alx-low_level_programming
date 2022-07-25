@@ -1,1 +1,13 @@
-int _abs(int)
+#include "main.h"
+
+/**
+ *
+ *
+ *
+ */
+
+
+int _abs(int n)
+{
+
+}
