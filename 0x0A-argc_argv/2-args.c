@@ -2,7 +2,7 @@
 
 /**
  * main -entry point
- * argc: argument count
+ * @argc: argument count
  * @argv: argument vector
  * Return: argument vector
  */
