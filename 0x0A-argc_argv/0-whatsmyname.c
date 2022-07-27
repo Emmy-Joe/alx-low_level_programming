@@ -3,7 +3,7 @@
 /**
  * main - prints its name, followed by a new line.
  * @argc: argc parameter
- * @*argv: array of command list
+ * @argv: array of command list
  * Return: 0 success
  */
 
