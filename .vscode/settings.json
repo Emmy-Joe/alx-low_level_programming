@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.includePath": [
+        "c_cpp_properties.json",
+        "<stdlib.h>"
+    ]
+}
